@@ -1,4 +1,4 @@
-# Vulnerable Web Application - SQL Injection Demo
+# Vulnerable Web Application - SQL Injection and XSS Demo
 
 - **PowerPoint guide** - [PPT](https://purdue0-my.sharepoint.com/:p:/g/personal/aalsaadi_purdue_edu/EVanpe_nqChIty6Xj0GAz_UBds7A_k1nsYUlQUCLqzV_Dg?e=6oCJOr)
 
