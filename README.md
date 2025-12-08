@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed:
 ### Step 2: Clone the Repository
 
 ```bash
-git clone https://github.com/22AKMS/SQLi-project/tree/master
+git clone https://github.com/22AKMS/SQLi-project
 ```
 
 1. Copy the entire xampp folder from the extracted files
