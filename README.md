@@ -1,5 +1,8 @@
 # Vulnerable Web Application - SQL Injection Demo
 
+- **PowerPoint guide** - [PPT](https://purdue0-my.sharepoint.com/:p:/g/personal/aalsaadi_purdue_edu/EVanpe_nqChIty6Xj0GAz_UBds7A_k1nsYUlQUCLqzV_Dg?e=6oCJOr)
+
+
 ## App generated using Claude AI and modified to be vulnerable.
 
 A deliberately vulnerable PHP/MySQL web application designed for educational purposes to demonstrate SQL injection and XSS vulnerabilities.
